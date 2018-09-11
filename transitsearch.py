@@ -3,7 +3,6 @@ import ephem
 import cv2
 import sys
 import math
-import imutils
 import datetime
 
 if len(sys.argv) != 9:
